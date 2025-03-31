@@ -1,0 +1,24 @@
+.about{
+    background-color: rgba(39, 112, 161, 0.78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    padding: 2em;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    width: 1200px;
+}
+.upper {
+    position: absolute;
+    top:2.5rem;
+    display: flex;
+    height: 50%;
+    
+}
+.d{width: 400px;
+    border: 6px solid lightcoral;}
